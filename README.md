@@ -1,2 +1,0 @@
-# mecano
-mecano diag
